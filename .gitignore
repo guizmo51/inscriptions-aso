@@ -9,7 +9,7 @@
 /build
 /dist
 /tags
-/inscriptions.sql
+inscriptions.sql
 
 # OS generated files #
 ######################
