@@ -9,6 +9,7 @@
 /build
 /dist
 /tags
+inscriptions.sql
 
 # OS generated files #
 ######################
@@ -20,3 +21,4 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+.editorconfig
